@@ -1,4 +1,3 @@
-# Ugochi Nwachukwu
 # ABOUT ME
 
 I believe data should do more than sit in spreadsheets.
@@ -8,7 +7,9 @@ It should guide decisions, reveal opportunities, and solve real problems.
 My name is Ugochi, and I specialize in turning raw business data into clear insights that leaders can act on.
 
 📊 I’ve built SQL projects analyzing telecom customer behavior and revenue trends.
+
 📍 Experienced in Power BI, Excel, and Python for end‑to‑end reporting.
+
 📍 Skilled at transforming messy datasets into dashboards that tell a story.
 
 My background blends technical skill with business thinking. 
