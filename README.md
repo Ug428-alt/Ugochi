@@ -24,3 +24,17 @@ Teams that want to move from guesswork to data‑driven decisions.
 Businesses that need clarity on customer behavior and revenue drivers.
 
 Projects where insights must be practical, not just pretty charts. 
+
+# TOOLS I USE:
+
+Data Wrangling: Excel • SQL • Python • Google Sheets.
+
+Data Visualization: Power BI • Excel • Google Sheets.
+
+Automation: Dashboard Scheduling.
+
+If your business is sitting on data it does not know how to use or if you are building a team that needs an analyst who can think, communicate and deliver let us talk.
+
+Open to remote opportunities in Nigeria, UK, Canada and the United States.
+
+Nobledelight7@gmail.com
