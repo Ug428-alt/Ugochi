@@ -1,3 +1,4 @@
+UgochiNwachukwu/README.md
 # ABOUT ME
 
 I believe data should do more than sit in spreadsheets.
@@ -16,7 +17,7 @@ My background blends technical skill with business thinking.
 
 I don’t just query data; I ask what it means for growth, efficiency, and strategy.
 
-# Where I thrive:
+Where I thrive:
 
 Teams that want to move from guesswork to data‑driven decisions.
 
