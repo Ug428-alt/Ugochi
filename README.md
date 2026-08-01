@@ -37,4 +37,7 @@ If your business is sitting on data it does not know how to use or if you are bu
 
 Open to remote opportunities globally.
 
-evangelineugochi38@gmail.com
+## CONTACT
+
+EMAIL: evangelineugochi38@gmail.com
+LINKEDIN: https://www.linkedin.com/in/ugochi-nwachukwu/
