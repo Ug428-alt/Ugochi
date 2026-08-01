@@ -35,4 +35,6 @@ Automation: Dashboard Scheduling.
 
 If your business is sitting on data it does not know how to use or if you are building a team that needs an analyst who can think, communicate and deliver let us talk.
 
-Open to remote opportunities in Nigeria, UK, Canada and the United States.obledelight7@gmail.com
+Open to remote opportunities globally.
+
+evangelineugochi38@gmail.com
